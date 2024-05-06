@@ -1,32 +1,27 @@
-Bitcoin Price Prediction Model
-This repository contains the code for a Bitcoin price prediction model.
+Bitcoin Fiyat Tahmin Modeli Bu depo, Bitcoin fiyat tahmin modelinin kodunu içerir.
 
-Project Overview:
+Projeye Genel Bakış:
 
-This project aims to predict future Bitcoin prices using machine learning techniques.
+Bu proje, makine öğrenme tekniklerini kullanarak gelecekteki Bitcoin fiyatlarını tahmin etmeyi amaçlamaktadır.
 
-Features:
+Özellikler:
 
--Data Preprocessing:
-Download and clean historical Bitcoin price data.
+-Veri Ön İşleme: Geçmiş Bitcoin fiyat verilerini indirilip kullanılabilir hale getirilmesi.
 
--Feature engineering (optional).
+-Özellik mühendisliği.
 
--Model Training:
-Train various machine learning models on the prepared data.
+-Model Eğitimi: Hazırlanan veriler üzerinde çeşitli makine öğrenimi modellerinin eğitimi.
 
-Evaluate model performance using metrics like R-squared or Mean Squared Error.
+R-kare veya Ortalama Karesel Hata gibi ölçümleri kullanarak model performansının değerlendirilmesi.
 
--Prediction:
-Generate predictions for future Bitcoin prices based on the chosen model.
+-Tahmin: Seçilen modele göre gelecekteki Bitcoin fiyatları için tahminler oluşturulması.
 
--Technologies:
+-Teknolojiler:
 
--Python programming language
+-Python programlama dili
 
--Machine learning libraries like scikit-learn
+-Scikit-learn gibi makine öğrenimi kütüphaneleri
 
--Data analysis libraries like pandas
+-Pandas gibi veri analizi kütüphaneleri
 
--Data visualization libraries like MPLFinance
-
+-MPLFinance gibi veri görselleştirme kütüphaneleri
