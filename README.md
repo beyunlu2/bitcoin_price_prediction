@@ -24,7 +24,9 @@ Generate predictions for future Bitcoin prices based on the chosen model.
 
 -Python programming language
 
--Machine learning libraries like scikit-learn, TensorFlow, etc. (specify depending on your implementation)
+-Machine learning libraries like scikit-learn
 
 -Data analysis libraries like pandas
+
+-Data visualization libraries like MPLFinance
 
